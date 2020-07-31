@@ -10,6 +10,7 @@
 .Cell {
     background: rgb(58, 247, 0);
     position: absolute;
+    filter: drop-shadow(0 0 2rem rgb(157, 248, 154));
 }
 
 .descr{
