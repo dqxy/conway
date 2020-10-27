@@ -348,7 +348,7 @@ class Conway extends React.Component {
                     ))}
                 </div>
                 <div className="descr">
-                John Conway was an English mathematician who has produced many results in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. In computability theory, a system of data-manipulation rules (such as a computer's instruction set, a programming language, or a cellular automaton) is said to be Turing-complete or computationally universal if it can be used to simulate any Turing machine. This means that this system is able to recognize or decide other data-manipulation rule sets. If the cell is alive and has 2 or 3 neighbors, then it remains alive. Else it dies. If the cell is dead and has exactly 3 neighbors, then it comes to life. Else if remains dead.
+                John Conway was an English mathematician who has produced many results in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. In computability theory, a system of data-manipulation rules (such as a computer's instruction set, a programming language, or a cellular automaton) is said to be Turing-complete or computationally universal if it can be used to simulate any Turing machine. This means that this system is able to recognize or decide other data-manipulation rule sets. If the cell is alive and has 2 or 3 neighbors, then it remains alive. If the cell is dead and has exactly 3 neighbors, then it comes to life.
                 </div>
             </div>
         );
